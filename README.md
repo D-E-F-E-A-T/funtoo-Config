@@ -1,2 +1,2 @@
 # funtoo-Config
-Portage Config of my funtoo ststem
+Portage Config of my funtoo system
